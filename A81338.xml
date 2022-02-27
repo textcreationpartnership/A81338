@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration by Sir Edward Dering Knight and Baronet. With his petition to the honourable House of Commons assembled in Parliament.</title>
+            <author>Dering, Edward, Sir, 1598-1644.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81338</idno>
+            <idno type="STC">Wing D1108</idno>
+            <idno type="STC">Thomason E40_5</idno>
+            <idno type="STC">ESTC R22648</idno>
+            <idno type="EEBO-CITATION">99871806</idno>
+            <idno type="PROQUEST">99871806</idno>
+            <idno type="VID">155081</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155081)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E40[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration by Sir Edward Dering Knight and Baronet. With his petition to the honourable House of Commons assembled in Parliament.</title>
+                  <author>Dering, Edward, Sir, 1598-1644.</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Raworth, for Philemon Stephens, at the golden Lion in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>April 1. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>With a final imprimatur leaf.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  History, (17th century)</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155081:1"/>
+            <p>A DECLARATION BY Sir Edward Dering Knight and Baronet.</p>
+            <p>With his PETITION To the Honourable Houſe of Commons Aſſembled in PARLIAMENT.</p>
+            <q>
+               <bibl>Juven. Sat. 3.</bibl>
+               <l>Quid Romae faciam' mentiri neſcio.—</l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Raworth,</hi> for <hi>Philemon Stephens,</hi> at the golden Lion in <hi>Pauls</hi> Church-yard.</p>
+            <p>
+               <hi>April</hi> 1. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:155081:2"/>
+            <pb n="1" facs="tcp:155081:2"/>
+            <div type="introduction_to_petition">
+               <p>
+                  <seg rend="decorInit">T</seg>Wo moneths together, I did in my own houſe enjoy ſo happy a privacy, as that no<g ref="char:EOLhyphen"/>thing could adde to the ſweet ſatisfaction thereof, but the ſight and company of my children, which I wanted: my wife at choſen times came into my ſtudie, and made my ſtollen com<g ref="char:EOLhyphen"/>mons a feaſt with her ſociety, whilſt my ſervants thought me far from home. This contentment was in <hi>May</hi> and <hi>June,</hi> 1642.</p>
+               <p>In this time I received, from ſome very neer, in Place, Truſt and Favour with his Majeſtie, ſeverall Expreſſes to call me unto <hi>York;</hi> which by ſeverall re<g ref="char:EOLhyphen"/>turns of mine I was ſtudious to decline: But they perſiſted, and uſed the Kings Name unto me, a ſure Engine to make me move: It was then a lawfull Duty in me to attend; for how great ſoever our fears then were, yet we were at that time in actuall Peace.</p>
+               <p>
+                  <pb n="2" facs="tcp:155081:3"/>Ambition (I praiſe God) did never ſwell a thought in me. I had too much felicity at home, to exchange my reall happineſſe for guilded hopes: yet thoſe Letters (then received) did hold out that bait fairly to me. If Court-employment had one quiet Sphaere, I might poſſibly haue been an en<g ref="char:EOLhyphen"/>deavourer above twenty yeers ſince, when my taſte was quicker, the golden Fetters would have ſeemed lighter, and my acceſſe (by means of a powerfull hand there) more clear and eaſie for me: But my de<g ref="char:EOLhyphen"/>ſires in that kinde were not warm, either then or now.</p>
+               <p>But I found (at that time) my privacie was not like to be laſting, I had intima<g ref="char:EOLhyphen"/>tion that my ſafety was ſhaking; and then, between being drawn and driven, I went toward the King willingly; but out of my own houſe, and from my own Countrey, the moſt unwilling man that ever went. Thorow <hi>Surrey</hi> and <hi>Oxford,</hi> I went to His Majeſtie at <hi>Leicester,</hi> and with him to <hi>Coventry,</hi> and then to <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> before the Standard was ſet up;
+<pb n="3" facs="tcp:155081:3"/>
+ſince when, I have been conſtantly attend<g ref="char:EOLhyphen"/>ant, untill I came into the Protection of Parliament on the ſecond of <hi>February,</hi> 1643.</p>
+               <p>The wofull miſery of this Land, the utter ruine of the Church of God in this Kingdom, and the finall period of the fa<g ref="char:EOLhyphen"/>mous Engliſh Nation, I did conceive would prove the undoubted iſſue of theſe bloody Wars; which may (as uſually) be ſucceeded by Plague and Famine, unleſſe ſome bleſſing from above do ſend a ſpeedy Cloſe. Now no Cloſe did I think expect<g ref="char:EOLhyphen"/>able, but by the Sword: For the ſtrength of the Parliament being made up in the Act of <hi>Continuation,</hi> the three Eſtates had therein tied us up in a Band indiſſoluble. Indiſſoluble indeed, unleſſe by them who made it; or elſe (as the <hi>Gordian</hi> knot was loſed) by the Kings Sword. Therefore (God forgive me) I did (as is there too common) execrate that Law, and was not friend enough with King and Parliament for making it. Thus I hated the onely Cure, Strength and Security of the Land,
+<pb n="3" facs="tcp:155081:4"/>
+being as (in another kinde) S. <hi>Paul</hi> ſaid of himſelf) <hi>exceedingly mad (Act.</hi> 26. 11.) Yet again, with S. <hi>Paul,</hi> from a Perſecuter I was made a Convert: for as he (1 <hi>Tim.</hi> 1. 13.) <hi>I obtained mercy, becauſe I did it ignorantly;</hi> that is, God had not opened my heart, but ſuffered me to go on accord<g ref="char:EOLhyphen"/>ing to the inward dictates there, which (though erroneous) I followed: but at length I was better bleſt.</p>
+               <p>Whilſt I was there, I had as much as was ſit for me to expect: and though I kept the diſtance of Duty, yet could I make my own admiſſion to His Majeſtie upon every occaſion; ſuch was His gentle goodneſſe toward me: and I was received with that regardfulneſſe, which gave growth unto my love, and preſerves my love unto His Majeſtie whereſoever I ſhall be; though I ſhall onely ſerve the Parlia<g ref="char:EOLhyphen"/>ment in the now great Controverſie be<g ref="char:EOLhyphen"/>tween them; for I have taken a Covenant for the King and Parliament, I muſt be faithfull to both: But where I cannot ſerve the King in his perſonall Commands,
+<pb n="4" facs="tcp:155081:4"/>
+and ſerve him alſo in his Politike Capaci<g ref="char:EOLhyphen"/>ty, wherein he is moſt eminently in his Parliament, I am reſolved to be ruled by the wiſeſt of Kings, who aſſures me (<hi>Prov.</hi> 11. 14.) That <hi>in the multitude of Counſel<g ref="char:EOLhyphen"/>lers there is ſafety;</hi> and therefore I ſhall anchor there.</p>
+               <p>No man can with juſtice and reaſon expect from me any depth of Diſcovery, or that I ſhould be the man to open the Myſterie of all the <hi>Oxonian</hi> Deſignes; I was not of ſuch inward admiſſion. This Declaration therefore cannot ſpeak any high particulars; yet ſhall it publiſh to the world ſome Motives of my Return, being the ſame wherewith the Honour<g ref="char:EOLhyphen"/>able Houſe of Commons are pleaſed to be ſatisfied; which by way of Petition ſpeaks thus:</p>
+            </div>
+            <div type="body_of_petition">
+               <pb n="6" facs="tcp:155081:5"/>
+               <head>To the honourable Houſe of Commons aſſembled in Parliament: <hi>The HUMBLE PETITION OF Sir</hi> EDWARD DERING <hi>Knight and Baronet.</hi>
+               </head>
+               <opener>Humbly ſheweth,</opener>
+               <p>THat no force, nor any conſtraint hath brought me hither, but my own free Choice, purſued with Induſtrie; and this Choice grounded and confirmed in me upon many ſad Meditations, which have begotten as many ſerious Invocati<g ref="char:EOLhyphen"/>ons to be directed in the beſt Way.</p>
+               <p>Some few Motives to manifeſt the ho<g ref="char:EOLhyphen"/>neſt reallity of my purpoſes, I ask leave to lay down in this Petition; But before<g ref="char:EOLhyphen"/>hand profeſſing my ſelf very ſory for bearing Arms againſt the Parliament.</p>
+               <p n="1">
+                  <pb n="7" facs="tcp:155081:5"/>1. I conſidered, That in removing my ſelf hither, I do not forſake my Duty and Alle<g ref="char:EOLhyphen"/>geance to the King, but really purſue it; and ſhall actuate it better then before, in a true Obedience, both to him and to the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="2">2. I did in this honourable Houſe take the Parliamentary Protestation, one Clauſe where<g ref="char:EOLhyphen"/>of is for the Priviledge of Parliament: This (as an argument for my Return) came late into my thoughts; but ſince it came, I have much wondered at my ſelf, how I could be ſo long tranſported, to aſſist in a way, to de<g ref="char:EOLhyphen"/>ſtroy this very Parliament which I have vowed to preſerve.</p>
+               <p n="3">3. I dare not ſay, That the Kings Promi<g ref="char:EOLhyphen"/>ſes are forgotten and unperformed: I had ra<g ref="char:EOLhyphen"/>ther hide then open ſo un-Royall failings, if I knew them; But certainly ſomething hath, at ſome times appeared like unto ſuch breakings; And, I think, the Petition out of<hi>Wilt-</hi> ſhire on Tueſday or Wedneſday last, ſpake little leſſe to the King Himſelf.</p>
+               <p n="4">4. The fear of an <hi>anti-</hi> Parliament at <hi>Oxford;</hi> and a particular fear lest I ſhould
+<pb n="8" facs="tcp:155081:6"/>
+(as divers of the Members there profeſſed I ſhould) be ſhortly called into that Conven<g ref="char:EOLhyphen"/>tion, made me not onely endeavour to come away, but to hasten unto the true Parliament here.</p>
+               <p n="5">5. Some Clergie-men, and others, do ſpeak a language there, as if the King could come no other way to his own dwellings here, unleſſe by Conquest: But that way of prevailing doth carry the terrour of deſperate Conſe<g ref="char:EOLhyphen"/>quences with it; and is likely (I fear) to lead into <hi>Arbitrary Government</hi> and <hi>Po<g ref="char:EOLhyphen"/>pery.</hi> And I have been confident, That the King, with fourty ſervants, might come to <hi>Weſtminſter,</hi> and ſtay there with undoubted ſafety to His Perſon: So I have ſaid at <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> and I do ſtill aſſuredly believe ſo; and God will bleſſe Him, if He do ſo.</p>
+               <p n="6">6. I could never reconcile the Ceſſation in <hi>Ireland,</hi> to the Vows made in <hi>England.</hi>
+               </p>
+               <p n="7">7. When the first Declarations of this ho<g ref="char:EOLhyphen"/>nourable Houſe gave publike Caution of a pre<g ref="char:EOLhyphen"/>vailing Popiſh party, I confeſſe I had then no more but an implicite faith in that ſenſe of the Houſe at that time: It is ſince explicited
+<pb n="9" facs="tcp:155081:6"/>
+unto me: And the first Scene is plaid home in <hi>Ireland,</hi> which already is the Popes, de<g ref="char:EOLhyphen"/>nomination being given <hi>Ex majore parte.</hi> Some late Defections have been to the Romiſh miſ-belief, and divers Papists are daily truſt<g ref="char:EOLhyphen"/>ed with Commands.</p>
+               <p>For theſe Reaſons I am come to render my ſelf into the protection of the Parlia<g ref="char:EOLhyphen"/>ment; and that with a clear, candid, hearty integrity of Reſpect and Duty to this ho<g ref="char:EOLhyphen"/>nourable Houſe. I am come in, in a hap<g ref="char:EOLhyphen"/>pie hour, when the providence of heaven hath brought me in, under the ſhelter of a <hi>Declaration by both Kingdoms;</hi> who both have therein promiſed, That I ſhall be <hi>received into favour,</hi> and that with <hi>ſpeciall conſideration of the time of returning;</hi> where<g ref="char:EOLhyphen"/>in I have the honour to be the firſt Suiter that layes hold on your offered Favours.</p>
+               <p>Moſt humbly therefore I pray, That <hi>your free Reception of me, may ſeal the full Liberty which is promiſed;</hi> And I ſhall daily pray for the happy iſſue of all your Conſultations.</p>
+               <p>
+                  <pb n="10" facs="tcp:155081:7"/>Hereunto I do onely ſubjoyn this, That I obſerve that in matter of Religi<g ref="char:EOLhyphen"/>on, they are yet in love with thoſe ſpe<g ref="char:EOLhyphen"/>cious, pompous, loud, exteriour comple<g ref="char:EOLhyphen"/>ments. One ſingle groan in the Spirit, is worth the <hi>Diapaſon</hi> of all the Church-Muſick in the world. Organs, Sackbuts, Recorders, Cornets, &amp;<hi>c.</hi> and voices are mingled together, as if we would catch God Almighty with the fine ayre of an Anthem, whilſt few preſent do or can un<g ref="char:EOLhyphen"/>derſtand. <hi>
+                     <g ref="char:V">Ʋ</g>bi belluinis ſtrepitibus cantil<g ref="char:EOLhyphen"/>lant, Dum hinniunt diſcantum pueri, mugiunt alii tenorem, alii latrant, contrapunctum, alii boant altum, alii frendent baſſum, faciunt<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ut ſonorum, plurimum quidem, audiatur, ver<g ref="char:EOLhyphen"/>borum, &amp; oration is intilligatur nihil.</hi> In this Devotion made up with noiſe like the <hi>Dionyſian Orgy's,</hi> there is a paraſiting part of the Clergie, who love with theſe lazie performances to amuſe the people ſo much, that they had rather the King<g ref="char:EOLhyphen"/>dom ſhould be blown up, then that the King ſhould forbear to hear the blowing of Organs: Some of theſe (I doubt not)
+<pb n="11" facs="tcp:155081:7"/>
+do think the Cathedrall part of this great Contention, worth this War and Blood. One of theſe hath ſeverall Times argued with me, That the King is guilty of Per<g ref="char:EOLhyphen"/>jury for conſenting to the Bill of taking away the Biſhops Votes in Parliament, and diſabling Clergie-men to officiate in the proper acts of Lay-men.</p>
+               <p>This faſcinated part of the Clergie, who adore this externall pomp, who mea<g ref="char:EOLhyphen"/>ſure Devotion by the ear, and take Reli<g ref="char:EOLhyphen"/>on in a Tune; theſe are as apt as ever to ramp up again into all the amplitudes of the power they had, and then will fall again into the exceſſe of all their former ſinnes, and we then are as ſure to fall into all our former ſufferances. If theſe gaye<g ref="char:EOLhyphen"/>ties had not been retained, <hi>England</hi> (ſince the Reformation) had been more pure and chaſte in Religion, then of late it was. <hi>Foedera ſervaſſet ſi non formoſa fuiſſet.</hi> But God be thanked, who hath given us a li<g ref="char:EOLhyphen"/>ving Parliament to watch theſe miſlead<g ref="char:EOLhyphen"/>ers, theſe Romiſh back-ſliders: He hath not yet with-drawn his love from this
+<pb n="12" facs="tcp:155081:8"/>
+Nation; nay, he now doth chaſtiſe us, therefore he loves us now. Let us there<g ref="char:EOLhyphen"/>fore be every one carefull to amend his wayes, ſo in our new Covenant we vow, and that is the way to mend a Family, to mend a Province, to mend a Kingdom: One <hi>Achan</hi> may trouble a whole Hoſt. Yet who doth inwardly conſider this, though a Heathen could obſerve it?</p>
+               <q>
+                  <bibl>Heſiod. op. &amp; die. Lib. I.</bibl>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </p>
+               </q>
+               <q>For many times a whole City is puniſhed for one wicked mans ſake.</q>
+               <p>Lord grant that Heathen Poets may not riſe up in Judgement a<g ref="char:EOLhyphen"/>gainſt the Chriſtians of <hi>England.</hi>
+               </p>
+               <closer>
+                  <signed>EDWARD DERING.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div xml:lang="lat" type="imprimatur">
+            <pb facs="tcp:155081:8"/>
+            <p>IMPRIMATUR.</p>
+            <closer>
+               <signed>Jo: White.</signed> 
+               <dateline>
+                  <date>Martii 28. 1644.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
